@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://bj2222:bj2222@gighub-2ma04.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
